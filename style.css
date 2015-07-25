@@ -6,8 +6,9 @@ html {
 body {
   height: 95%;
   width: 100%;
-  font-family: sans-serif;
-  background-image: url('http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg');
+  font-family: Gill Sans, sans-serif;
+  font-size: 9px;
+  background-color: #9fa8a7;
 }
 
 .main-container {
@@ -30,5 +31,11 @@ body {
 p{
   text-align: center;
   margin: 3px 0;
-  font-size: 17px;
+  font-size: 13px;
+  font-color: #19c2b4;
+}
+
+span{
+  font-size: 8px;
+  font-color: #d6dcd7;
 }
